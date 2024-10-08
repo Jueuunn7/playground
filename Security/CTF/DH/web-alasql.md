@@ -1,5 +1,5 @@
 # web-alasql.md
-https://dreamhack.io/wargame/challenges/941
+https://dreamhack.io/wargame/challenges/61
 ## Description
 nodejs alasql 패키지에 포함된 alaserver가 작동합니다.
 플래그는 /flag 를 실행하면 얻을 수 있습니다.
