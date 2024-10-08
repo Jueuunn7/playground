@@ -27,3 +27,5 @@ var assignfn = new Function('r,params,alasql', 'var y;' + s);
 ```
 
 만약 `col.column.columnid`의 값이 `0'+alert("UPDATE pwned")+'` 일 경우에 `s` 변수에 할당된 후 new function에 들어가고 쿼리가 실행된다.
+
+이를 이용해 sql 문과 핢게 js를 실행시켜 RCE를 할 수 있다.
